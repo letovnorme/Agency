@@ -1,0 +1,59 @@
+
+
+.top {
+    float: left;
+    position: relative;
+    height: 50px;
+    width: 70%;
+    background: black;
+    margin: 0px 198px;
+}
+
+ ul.buttontop li{
+    display: inline-block;
+    color: whitesmoke;
+    text-decoration: none;
+    text-transform: uppercase;
+     padding: 0px 5px;
+
+}
+ .buttontop{
+     padding: 0px 25%;
+ }
+ .tophalf{
+     float: left;
+     position: relative;
+     height: 400px;
+     width: 100%;
+     background: #ded6d6;
+ }
+ .topleft{
+     float: left;
+     position: relative;
+     width: 50%;
+     height: 350px;
+
+ }
+ h1 {
+     text-transform: uppercase;
+     font-family: "Lucida Grande";
+     padding-left: 198px;
+ }
+ .context{
+     font-family: "Times New Roman";
+     text-align: left;
+     padding: 0px 198px;
+ }
+ .topright{
+     float: right;
+     height:350px;
+     width: 50%;
+     position: relative;
+
+ }
+.video{
+    float: right;
+    padding: 0px 50px ;
+}
+
+.
